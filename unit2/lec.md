@@ -219,3 +219,44 @@
 * Tribes lsot social org./reprod.
 * TEK → loses much of value → culturla reprod. more difficult → dependency of
     tribes (on colonizers, inability/lack of ability for reproduction)
+
+# 3/1/19
+## Clicker
+* (C) Middle ground
+
+## Comp. New England Colonists & Native American
+* Lockean conquest of people & landscapes
+* Diff. perspectives offer rationale/critique of colonization
+* Native American resources practices sustainable or higher dimensional?
+* Natives in California didn't grow corn/bean/squash → abundance of other
+    resources/biodiversity
+
+## Anderson: (**Tending the Wild**)
+### Harvest Strats.
+* Sustain ecosys. nutrients/soil fertility
+* Baregrass
+    * Essential part of life stages, burning cycles
+* Ethos of caring about species and species management
+    * Reciprocal relationship w/ nature, inttrasubjective
+* Keep ecosys. in modest/intermediate level of disturbance → Native Americans
+    lived in eco. harmony w/ nature
+
+## Krech on Indian Fire
+* Metanalysis, lit. review
+* Fire out of control, not extinguished (esp. in grasslands)
+* Leaving parts of buffalo behind common
+
+### Krech: **The Ecological Indian: Myth & History**
+* Anachronistic (using contemp. terms to describe something from past, but
+    don't capture reality)
+* Essentialist (ecological = essence of their nature)
+* Social construction of natives as ecologists
+
+#### Not Conservationist
+* Let many hides behind, etc.
+* Took what they wanted, left rest
+* Secular moral imperative → Lockean optimization of use of resources
+* Kept hunting buffaloes
+
+#### Conclusions
+* Didn't embody ecology/conservation
