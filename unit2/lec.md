@@ -148,12 +148,12 @@
 * 30—90 million in North Am.
 * Hats made out of beaver fur 
 
-### Riperian (river) ecological succession cycle
+### Riparian (river) ecological succession cycle
 * Dam → lake → sediment → wetland → trees for beaver dams again
 
 ## Fur trade as int'l phenomenon
 * Fur trade = international phenomenon (Europe/global phenomenon of extracting
-    resources from colonies), w/ long hist. → indigenous people in commidity
+    resources from colonies), w/ long hist. → indigenous people in commodity
     exchange in context of great power geopolitics
 * Spain withdrawing as dominant sea power → opportunity for settlements open in
     N. Am.
@@ -216,8 +216,8 @@
     * Ojibwa = congregation of smaller tribes
 
 ## Native American societies & fur trade
-* Tribes lsot social org./reprod.
-* TEK → loses much of value → culturla reprod. more difficult → dependency of
+* Tribes lost social org./reprod.
+* TEK → loses much of value → cultural reprod. more difficult → dependency of
     tribes (on colonizers, inability/lack of ability for reproduction)
 
 # 3/1/19
