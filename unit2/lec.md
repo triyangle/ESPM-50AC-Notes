@@ -146,7 +146,7 @@
 ## Beavers
 * 2nd largest rodent
 * 30—90 million in North Am.
-* Hats made out of beaver fur 
+* Hats made out of beaver fur
 
 ### Riparian (river) ecological succession cycle
 * Dam → lake → sediment → wetland → trees for beaver dams again
@@ -260,3 +260,101 @@
 
 #### Conclusions
 * Didn't embody ecology/conservation
+
+# 3/4/19
+## Clicker
+* Anachronism = defining past in terms of present (Krecht describing natives)
+
+## Manifest Destiny
+* Putting religious concepts in more secular context
+
+## Context of expansionist ideology
+* Crisis of reprod. in New England
+
+## Turner's Thesis
+* Frontier = basic process by which American identity formed
+    * Based on Agrarian myth & manifest destiny
+    * Wilderness masters colonist, but through hard work colonist is able to
+        master wilderness → American identity
+        * Qualities as a result incl. lack of artisticness
+        * Mobility always dominant factor
+* Universalist vs inclusionist (Turner)
+
+# 3/6/19
+## Clicker
+* Property = rights to things, but need to be legitimate
+
+## Image and social construction of Native Americans
+* Moral decay assoc. w/ city life
+
+## The Noble Savage
+### Albert Bierstadt - Indian Canoe  (1868)
+* Bierstadt romanticism
+* Trained in Hudson River School (Cole, Oxbow)
+* Luminism art style (brightness)
+* Arches → classicism
+    * Cathedral-like quality
+* Individual = focus, not collective
+
+### Charles Bird King - Young Omahaw, War Eagle, Little Missouri, and Pawnees (1822)
+* Negotiations w/ gov't officials
+* Noble → Roman noses, free from depravities of city life
+    * Roman noses → (neo)-classicism → speaking to higher moral plane
+    * Distant stare
+* Medallion = recognition of friendship (from federal gov't)
+* Give ceremonial axe/tomahawk in exchange
+* Savagery → paint/garb
+    * Unpredictability
+* Tension of nobility & savagery
+* Nobility = gateway to potential for assimilation
+
+### George Catlin - Clermont, Chief of the Osage (1834) /  Clermont’s wife (1834)
+* Subjugation to portraiture process
+* Individualism focus → western notion
+    * Step toward assimilation
+* Abstract naturalistic background → realm of savage
+* Nuclear family → common shared humanity in motherhood
+
+### George Catlin - Bird’s-eye View of a Mandan Village (1834)
+* Paradise or mess?
+* Collectivity embedded in nature
+* Lazy (Natives) vs too industrious (white)
+* Sentimental (storm clouds)
+* 1820s greater Western expansion
+* Conflicts → noble savage → brutal savage
+
+## Brutal Savage
+### Anton Gag - "Attack on New Ulm during the Sioux Outbreak August 19th - 23rd 1862.” (1904)
+* 500 Sioux revolting, killing settlers in Minnesota, 1862
+* Nature divided by orderly settlement via fence
+
+### W. H. Childs - Execution at Mankato, December 26, 1862, (1862)
+* Order symbolically reimposed by American state
+
+### Theodore Kaufmann - Westward the Star of Empire Makes its Way (1867)
+* Espionage, natives emerging from nature derailing progress
+
+## The Conquered Indian
+### Henry Farny - Morning of a new day (1907)
+* Natives headed off into ravine of history
+
+### 3 Pueblos - before and after - Carlyle Indian school , PA (1890s)3)
+* Intergenerational maneuvering
+* Indian barding schools
+
+## The Ecological Indian
+### Keep America Beautiful - Iron Eyes Cody (1971)
+* Wisdom grounded in nature, cultural appropriation
+
+## The Independent Indian
+* Self-representation, agency in racial formation
+* Autonomy/sovereignty important
+* Self-representation necessary to challenge old forms of rep.
+* Appropriate Western/American symbolism
+* Laying claim to American land
+* Counter narrative, undoing hierarchy of past, social activism
+* Haozous = self-identity
+    * Philosophical cultural knowledge as guiding reference
+    * "White man in olives"
+    * Modern native identity formed by colonial hist.
+* Self-rep. Bridging modern & trad.
