@@ -358,3 +358,8 @@
     * "White man in olives"
     * Modern native identity formed by colonial hist.
 * Self-rep. Bridging modern & trad.
+
+# 3/8/19
+* Beargrass need sunlight
+* Commodified timber forest (oaks) vs basket weaving
+* 1912 fire = criminal activity starting fires in forests
