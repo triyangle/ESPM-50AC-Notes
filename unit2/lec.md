@@ -363,3 +363,47 @@
 * Beargrass need sunlight
 * Commodified timber forest (oaks) vs basket weaving
 * 1912 fire = criminal activity starting fires in forests
+
+# 3/11/19
+* Trust doctrine
+
+## Trade & Treaties
+* Colonial period → certain degree of equality
+* Early treaties divide land, more amicable (not about moving off to
+    reservations)
+* Guardianship theory, white supremacist assumption
+    * Whites = guardian to tribes (seen as ward of state)
+    * Favoring interest of tribes
+
+## Removal & Reservation
+* Not much movement over Appalachians until after war of 1812 (1820s) →
+    colonization of South & Upper Midwest
+    * Shift from noble savage → brutal savage
+
+## Johnson v. McIntosh
+* Doctrine of discovery → sovereignty established via discovery
+* Native tribes have rights to occupancy (despite not full rights)
+* Complexity and divisibility of property rights implies tribal sovereignty
+    rights
+    * Possibility of tribal "impaired sovereignty"
+
+## Cherokee Nation Cases
+* Jackson = Jeffersonian agrarian populist
+    * Open up West, give to people
+    * Rid West of native people via violence/brutality and legal/extralegal
+        means
+* Gold discovered in Georgia, Cherokee land
+    * Militia tried to drive Cherokee out
+        * Georgia state law imposed on Cherokee territory (in addition to
+            violence, etc.)
+* Cherokee want standing to courts as sovereign nation
+* Tribes = dependent domestic nation
+    * Sovereignty divided between tribes, federal gov't, state gov't (i.e.
+        "impaired sovereignty")
+
+## Worcester v Georgia
+* Limits ability of states to remove tribes
+* Fed. gov't has fiduciary duty to look out for best interest of tribes
+* Shifting interpretations of trust doctrine between wardship (dependent nations)
+* Tension between wardship and sovereignty interpretations of trust
+    doctrines
