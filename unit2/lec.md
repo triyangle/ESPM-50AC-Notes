@@ -407,3 +407,56 @@
 * Shifting interpretations of trust doctrine between wardship (dependent nations)
 * Tension between wardship and sovereignty interpretations of trust
     doctrines
+
+# 3/13/19
+## Worcester v Georgia
+* Georgia trying to push Cherokees out
+* Jackson cedes de facto sovereignty to states
+
+## Expansion, reservation, war and dependency
+* Many conflicts, military tragedies
+* Removal treaties remove tribes to less valuable land (interpretation of trust
+    doctrine, keep tribes safe from whites)
+* Homestead Act sets context for Allotment
+    * \$1.25 an acre, agrarian myth, excluding Native Americans and forcing
+        their removal
+* Cycle of violence
+* Discovery of gold in black mountains → conflict
+* Land base of tribes lost tremendously
+* Focus on separation (maybe assimilation later)
+* CA → bounties put on Native people
+* Many forms in which genocide played out
+* Trust doctrine interpreted in wardship instead of sovereignty
+* Tribes deprived of resources → limited capacity for (social) reprod.
+
+## Tenure patterns on reservations
+* Tribal reservation land not actually completely owned by tribes
+* Lot of land owned by timber company and white landowners
+
+## Allotment & Assimilation
+* 1870s Protestant church leaders administered
+    * 1882 BIA took over, church leaders had continuing interest/role
+        * Tremendous corruption in allotment of land
+
+## US v Kagama
+* Upheld major crimes act
+* Supreme Court found tribal sovereignty non-existent
+
+## Social Construction and incorporation
+* Assimilation depends on acculturation
+* Alice Fletcher = leading church figure
+* General Allotment Act → Magna Carta
+
+## General Allotment (Dawes) Act
+* Private property parcels of 160 acres
+* Trust patent → trust doctrine, property held in trust by gov't
+    * Protection from vicissitudes of market (demands of life in reg. economy)
+* Private property ownership → incorporated into cash economy → pay taxes → may
+    lose land quickly (sell land to pay taxes)
+* Surplus land managed by gov't in trust for tribes
+    * Land sold to private interest
+* Trust doctrine interpreted as wardship as pathway to sovereignty
+    * Citizenship → no longer subject to trust doctrine
+* Not until 1934 all tribal members assimilated
+* Increased dependency as a result of impoverishment from land loss
+* 1934: 48 million acres → surplus land sales
