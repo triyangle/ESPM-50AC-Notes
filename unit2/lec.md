@@ -460,3 +460,82 @@
 * Not until 1934 all tribal members assimilated
 * Increased dependency as a result of impoverishment from land loss
 * 1934: 48 million acres → surplus land sales
+
+# 3/15/19
+## General Allotment (Dawes) Act
+* Assumed acculturation of Natives
+* Acculturation → assimilation via rearrangement of property rights
+* No healthcare
+* Integration in market economy → undermine tribes (social/cultural/biological)
+    * Left in state of great dependency
+
+## Indian New Deal
+* Southern/Eastern European migrants not culturally/ethnically acculturated →
+    ethnic enclaves
+* Cultural pluralism → assimilation w/out full acculturation
+    * Against Dawes ACT (acculturation before assimilation)
+* Recognition that Indians not willing to shift completely to white ways
+    * Potential for damage instead
+* New Deal → fed. gov't essential to managing economy (Keynesian approach)
+* Discrimination in New Deal against non-whites
+    * Educational, food/subsistence programs
+* Collier → get lost land from allotment back in Native hands
+    * Increase native land holding, reach out to tribes
+    * Goes on listening tour
+
+## Indian Reorganization Act
+* Key feature of Indian New Deal
+* Allotment ended
+* Allotted land in land → remain in trust, no conversion of trust patent land
+    to fee patent
+    * Victory for tribes: allotment → trust → fee patent = loss of land
+* No more selling of surplus land
+* Money to support institutions of tribal gov't
+* Money dedicated to expand land for educational/vocational training
+* Loss of land greatly slowed → buybacks
+* Social services → stabilization of tribal community economies
+* More dependency on fed. gov't for money in order for tribes to act as
+    sovereign
+* 1934 "Those powers lawfully vested in Indian tribe not delegated powers
+    granted by express acts of Congress, but inherent powers of limited
+    sovereignty never extinguished" -Ally of Collier
+    * Right to take away sovereignty but not grant
+        * Tribes = largely sovereign entities
+
+## Termination
+* Wardship = financial problem, draining treasury
+* Rhetoric/ideology of Cold War → other, communistic
+* House Concurrent Resolution 108 → initiated termination policy
+    * Liquidation of reservations for self-sufficient tribes fit for social
+        incorporation
+        * Break up reservation → put land into tribal hands (allotment on grand
+            scale)
+    * Most tribes very resistant → limited effect of termination
+* Terminated tribes had timber → some had vast extraction infrastructure
+    * Targeted for timber land
+    * Menomonee largely successful in getting land back
+* Indian Relocation Act encouraged tribes to move to cities
+    * Seen mostly in neg. light by many people → breaks up families/communities
+
+## Self-Determination
+* Tribes should be largely sovereign
+* Termination not official overturned as official policy until Nixon
+* No active administration until Kennedy
+* Fades away in context of 1960s (civil rights, Indian red power movements)
+* Indian Self-Determination and Education Assistance Act → focus on sovereignty
+    under fed. gov't
+    * Tribes elevated → recognition of sovereignty, gov't to gov't relationship
+    * Limitations → programs on land for social services, schools, natural
+        resources mgmt., etc. but still operation under greater authority of
+        federal law
+        * Tribal standards for water quality vary from EPA → tribes have
+            certain rights to determine own standards (e.g. cultural practices)
+    * Amendments enhanced sovereignty
+        * 1996 → federal gov't contract tribal resource agencies to manage
+            forests, etc.
+    * Policy tension → greater stress on sovereignty, but can be limited by
+        regulatory laws (stronger regulations over time)
+    * What degree are tribes dependent on federal gov't?
+        * Issues of gaming/casinos (sought by tribes for financial relief)
+* Social incorporation → tension w/in tribal societies & gov't between modern
+    and more traditional elements
