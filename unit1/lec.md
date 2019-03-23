@@ -271,9 +271,7 @@
         * New areas have little opportunity compared to old public housing
 
 # 2/13/19
-## Market-based, neo-liberal feformist approach → substantive but uneven
-outcomes in rebuilding New Orleans
-* A
+* Market-based, neo-liberal reformist approach → substantive but uneven outcomes in rebuilding New Orleans
 
 ## Tenure Terminology
 * Not objects themselves, but rights/etc. to those objects
