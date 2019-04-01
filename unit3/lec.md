@@ -60,3 +60,32 @@
     * Removal of native people, low taxes, development of resources by state
         for economic development
     * Focus = supporting industry/economy
+
+# 4/1/19
+## Migration Terminology
+* Migration = w/in national borders
+* Rural migration from rural to urban
+* Chain migration (anchor baby)
+* Incorporation
+    * Pluralist = don't need to acculturate before assimilate
+
+## Push factors
+* Power of state not very effective in region
+* Pearl river delta → long term leases
+    * Divisible inheritance
+* Political instability assoc. w/ war = driving factor
+    * British driving instability in effort to capture market for textile
+* Opium Wars
+    * British wanted to sell textiles/opium in China
+    * War indemnity (in cash) → untenable situation
+* 20-30 million killed Taiping Rebellion
+* Dispossession of land via taxation
+
+## Pull factors
+* Desired as politically disempowered labor
+
+## Means
+* Settlement communities created means
+
+## Demography
+* Lower economic strata
