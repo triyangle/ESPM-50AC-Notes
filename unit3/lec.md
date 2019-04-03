@@ -89,3 +89,31 @@
 
 ## Demography
 * Lower economic strata
+
+# 4/3/19
+## Geography
+* Placer deposits of gold at bottoms of rivers
+
+## Mining Timeline
+* Sutter = social engineering idealist
+
+## Mining, Technology
+* Opportunities for waged labor diffuse and disappear
+    * Not-accessible, esp. for non-whites
+* Emergence of new labor regime based on labor markets keeping costs down
+* Limiting opportunities for upward mobility (wage workers)
+
+## Chinese in the minerals economy
+* Sweep through abandoned mines
+* Initially work in provisioning (providing food, fish, etc.), traditionally done by
+    women (e.g. restaurants)
+* Foreign miner's tax primarily on Chinese miners
+    * Also on Sonoran?
+
+## Ecology of Gold Mining
+* Farmers in central valley against North Bloomfield mine (hydraulic mine),
+    injunction against hydraulic mining (agriculture \> mining in CA economy)
+
+## Mercury \& Abandoned Mines
+* Mercury used to amalgamate w/ gold in pans → capture gold, mercury ran
+    downstream (SF bay)
