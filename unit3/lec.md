@@ -117,3 +117,40 @@
 ## Mercury \& Abandoned Mines
 * Mercury used to amalgamate w/ gold in pans → capture gold, mercury ran
     downstream (SF bay)
+
+# 4/5/19
+## The first transcontinental railroad
+* Civil war → transcontinental railroad funding
+* Central Pacific goes from Sacramento → east
+* RRs = ~15% of timber market
+
+## Financing the Railroad - the states and private capital
+* Long in making, precipitated by interests in west
+* Sell off RR land, land = collateral on loans
+
+## Federal Railroad land grants
+* Graft/corruption → bonds $>$ \$ $>$ land
+    * Bonds $<$ \$ $<$ land
+
+## America's Errand into the Wilderness: Race, resources, labor, \& capital in the American West
+* Security of property rights central to prospector capitalism 
+* Walker (prospector capitalism) leaves out proletarian immigrant labor force (not his main focus)
+* Takaki complements Walker from immigrant labor perspective
+    * More secular vision than Winthrop city on a hill
+    * Natural resource development reflect population dynamics
+        * Quasi-mythical mission
+        * Conquest (Manifest Destiny), settlement (agrarian myth)
+* Manifest destiny rationalizes separation among white supremacist lines
+    * Inclusionist myth (white Anglo-Saxon Protestant)
+* Errand into wilderness → what happens after territorial control already
+    established
+    * Progress = bringing Western idealism & vision
+    * More focused on development of economy, natural resources
+    * Incorporation of diverse racial groups
+    * More melting pot inclusionist
+    * Incorporation into economy in way that serves capital
+* Both call for physical transformation of nature, organize society in certain
+    ways to achieve those ends
+    * Agrarian myth = Lockean
+        * Equitable distribution of land
+    * Exploitation of labor via marginalization
