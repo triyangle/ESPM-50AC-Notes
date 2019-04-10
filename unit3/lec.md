@@ -30,7 +30,7 @@
 * Industrialization = heart/soul of modern production
 * Exploitation of natural resources → long term growth in CA
 * Surplus value circulates/accumulates in CA economy
-* No rapid extraction/exhaustion of resources supply 
+* No rapid extraction/exhaustion of resources supply
 
 ## California's Property Regime
 ### Prospector Capitalism
@@ -133,7 +133,7 @@
     * Bonds $<$ \$ $<$ land
 
 ## America's Errand into the Wilderness: Race, resources, labor, \& capital in the American West
-* Security of property rights central to prospector capitalism 
+* Security of property rights central to prospector capitalism
 * Walker (prospector capitalism) leaves out proletarian immigrant labor force (not his main focus)
 * Takaki complements Walker from immigrant labor perspective
     * More secular vision than Winthrop city on a hill
@@ -154,3 +154,79 @@
     * Agrarian myth = Lockean
         * Equitable distribution of land
     * Exploitation of labor via marginalization
+* Prospector capitalism → crisis of reproduction
+* Grounded in traditions of secular Protestantism
+    * Working for glory of God/country (manifest destiny)
+* Need cheap labor to develop land and finance
+    * "Get labor first, capital will follow"
+    * Low-cost, politically dis-empowered, disposable labor
+        * Race encoding access to opportunities
+    * Racial formation in American West grounded in need for capital for low-cost, politically dis-empowered, disposable labor
+* 1898 US takes over Philippines
+
+# 4/8/19
+## Law \& Policy
+* Policy reflects (understood of) social construction of Chinese, role in
+    economy, \& conflicts between Chinese \& European (Irish) in broader context
+    of conflicts between capital and labor
+* Conflicts between capital and labor = dynamo of social change
+* Immigration regulated exclusively by Fed. gov't, 1875, 100 yrs. prior
+    governed by states
+* Congress given authority for naturalization process
+    * 3 Naturalization Acts
+    * Any alien free white person can be naturalized after 5 years resident in
+        U.S.
+    * Non-whites excluded from naturalization until 1952 (McCarran-Walter Act)
+* 1840s/50s SF mayor (Geary) welcomes Chinese ("celestial men of commerce")
+* 1853 first strong wave of anti-Chinese sentiment
+    * Discovery of gold in Australia → ↓ gold markets
+    * Tied to changes in labor market, conflicts between Irish workers \&
+        Chinese workers
+* 1854: People v. Hall Chinese can't testify
+* 1860s: Shifting economic situation in CA, strong economy associated w/
+    production for Union in Civil War
+    * Manufacturing ↑, opportunities in agriculture \& railroad for Chinese
+    * Chinese working in productive niches, not in conflict w/ whites
+* Downturn in economy → big anti-Chinese legislature
+* 1868: 14th Amendment
+    * Citizenship clause (all people born in US are citizens under birthright
+        citizenship)
+        * Overturns 1857 Dred? Scott case
+        * Applies primarily to freed slaves
+        * Doesn't apply to Native Americans until 1984
+    * Due process clause (prohibit states/gov'ts from depriving persons of
+        life/liberty/property w/out certain steps assured via due process)
+        * Extend Bill of Rights
+    * Equal protection under law (basis for Brown v. Board of Education)
+        * Disassemble Jim Crow laws in 1960s)
+        * Opens up possibilities for opening lawsuits against jurisdictions
+* 1870s: No discrimination voting rights
+    * Chinese question starting from point of sympathy, understanding to much
+        more anti-Chinese posture (first state, then national level)
+        * Transcontinental RR finished → flood of Chinese in SF → worries
+* 1870: Naturalization Act → all foreign born Chinese/Asians = aliens
+    ineligible for citizenship
+* 1873-1877 → intense depression, particulary strong in CA
+    * Economic upturns/downturns, originally called Great Depression (renamed
+        to Long Depression)
+        * Devastation to economy in West, collapse of many RR corporations,
+            unemployment (26%)
+    * 1875: Page Act, Chinese/Japanese/felons/contract laborer → first exclusion of national
+        group from U.S.
+        * Prevent family formation for Chinese in CA/West
+            * Contract laborer → most often women
+        * Chinese denied vote/access to state
+* 1877: Workingman's Party, Dennis Kearny
+    * Saw Chinese as problem to be taken care of via legislation
+    * "Chinese must go" → not taking off until 1880s
+* 1882: Chinese Exclusion Act, 10 yrs.
+    * Forbid all laborers/women (merchants still allowed)
+    * Loophole = Chinese residents can come/go, those w/ relatives in U.S. can come → uptick in immigration
+* 1888: Scott Act barred re-entry of non-citizens
+* 1892: Geary Act extends Chinese Exclusion Act another 10 yrs. need resident
+    papers
+* 1898: U.S. v. Wong Kim Ark
+    * Denied citizenship by ports in U.S.
+* 1910-40: Angel Island Immigration Station
+    * Paper sons/daughters (often false documents)
+* 1924: Immigration Act, allowed immigration from China
