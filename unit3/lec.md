@@ -230,3 +230,123 @@
 * 1910-40: Angel Island Immigration Station
     * Paper sons/daughters (often false documents)
 * 1924: Immigration Act, allowed immigration from China
+* 1952: McCarran-Walter Act, all restrictions on naturalization based on race lifted (still
+    immigration restrictions)
+* 1965: Immigration Act, lifted racial restrictions on immigration
+
+# 4/10/19
+## Strategies for coping/resistance
+* Incorporation into economy
+* Gary Okihiro, *Extending Democracy's Reach*
+    * Asian-Americans → resistance = effort to become incorporated in American
+        economic/social/political/cultural life
+    * Pluralist framework, acculturation doesn't have to be full but
+        assimilation can be
+    * Moves beyond classic multi-culturalist perspective
+    * Contributing to economy \& democracy
+    * Court cases, fighting for rights → Civil Rights Movement
+        * Extended democratic beyond their own community
+
+## California Delta
+* Poor/risky site, great situation
+    * Between SF \& interior of state → great situation (market, transportation
+        infra)
+        * Great agriculture potential, fertile soil, water year-round, most productive landscape worldwide
+        * Limited appeal → malarial cholera infested swamp
+        * Inverted deltaic fan wetland
+        * Before 1850: floodplain, tidewater marsh, changing volume of
+            fresh/salt water (water from bay \& interior of state), natural
+            levies, islands, silt
+            * Landscape rearranged annually
+            * Subsidence alluvial soils, annual recharge necessary
+            * Annual deposition of tule grass into soils → incredibly fertile
+* After 1850 → artificial modifications
+    * Hydraulic mining → floods
+    * Deforestation → not retaining water
+    * Entire Central Valley flooded
+    * Levies built, no recharge of sediment → tremendous subsidence
+        * Lots of areas below sea level
+    * Big problem w/ saltwater intrusion
+        * Less flow into delta w/ climate change
+    * A lot of water pumped to SoCal → catastrophe in delta
+* Buildup of residential areas, prone to earthquakes → very risk
+* Yearly floods
+* Water resource management via delta
+
+## Reclamation \& delta farming
+* Potentially great for farming but needed reclamation
+    * Attractive to capital, but need to mitigate risks of investing into place 
+* Recruit cheap labor, introduce new tech, efficiencies, scaling etc.
+* Role of state essential → mitigates risk via subsidizing development via
+    cheap land \& low wage labor force
+    * Giving away land nice on paper, not so nice in reality
+* 1850: Arkansas Swamp Act → national wetlands act
+    * Fed. gov't gave CA 2.2 million acres, .5 million in delta "swampland"
+        * given as grant
+        * State could sell if used \$ to fund reclamation
+    * Series of bills through state legislature → disposal of land via small
+        parcels 
+        * No resale → prevent speculation \& concentration of land holdings
+            * Pressure to open limits → w/in 10 years no limit on land state
+                can dispose to private individuals
+            * Nature of resource → greater \& greater scale of operations
+                * Initially small, but new areas require new methods, difficult
+                    to reclaim based on small parcels
+                    * Greater capital requirement and need for larger labor
+                        force \& new technologies needed for reclamation
+        * Initially small scale prospector capitalism → transition to larger
+            scale operations (land/labor force/technology)
+            * Errand in Wilderness (Takaki)
+                * Natural resources development required large scale of
+                    capital, technology, etc.
+                    * Concentration of land ownership, class based wage/labor
+                        system
+            * Plays out in 2 periods, reclamation \& agricultural development
+
+## Reclamation - Phase 1
+* State sells to white landowners (small holders)
+    * 100 some acres, smaller parcels
+    * Labor recruitment of Portuguese/Italian/Chinese workers
+    * Plug into labor recruitment networks for mining/RR
+        * Niche opportunity after done w/ RR
+* Poor working conditions, 120 deg. in summer, malaria, etc.
+* Struggles over remuneration
+    * Clay pillar jankiness
+* Reclamation district pay for levees via taxes
+* Bartlett pears good for lasting in soggy ground
+
+## Reclamation - Phase 2
+* Clamshell dredge re-purposed from mining
+    * Labor lower
+        * Fewer opportunities, recruitment of non-Chinese technicians
+    * Corporate capital pooled, accumulation of wealth in LA (from oil/gas
+        industry)
+* Subsidization via reclamation districts
+* Asparagus, pear → hard on land
+* Reclamation of land → tenancy for Chinese workers
+
+## Chinese tenancy in the Delta
+* 2 periods of overlapping tenancy
+* Phase 1 → Chinese (along for Portuguese) work land → can now acquire access
+    to land
+* 1880s/90s: established Chinese rural communities
+* Leases/lease-holding = capital \& leaseholders struggle over benefits and
+    costs (risks/opportunities)
+
+### Clicker
+* Answer = B
+
+### 2nd phase of Chinese tenancy
+* Larger landholders
+* Run out of opportunities w/ alien land laws changing things
+* Reclamation → tenancy (high desire for agricultural operation)
+    * Labor builds value
+    * Chinese = culturally well prepared (history of work in Pearl River delta,
+        RR, mining)
+        * Bring technologies, labor recruitment network
+        * Rotation credit associations, short term loans
+        * Cultivate relationships w/ white landowners
+    * Developmental leasing → work done by leaseholder done by first couple
+        years
+* Serves as Jeffersonian wedge into land tenure system in CA (that otherwise
+    excluded Chinese)
