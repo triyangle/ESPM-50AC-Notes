@@ -350,3 +350,133 @@
         years
 * Serves as Jeffersonian wedge into land tenure system in CA (that otherwise
     excluded Chinese)
+
+# 4/12/19
+## Japanese Migration
+* Meiji emperor = connection between tradition and modernity
+* Focus on industrialization, urbanization, \& militarization
+    * Most rapid period of industrialization
+* Linking w/ Western industrialists, etc.
+    * Bring home knowledge of Western technology \& practices
+    * RR, naval tech, manufacturing tech
+* Transformation of politics, economy, labor system
+    * Pursuing opportunities in city → massive rural migration to cities
+    * Industrialization of labor force
+    * Increase in standard of living lifespan, population/demography
+    * 1860: 30 million Japan, 38 million by 1888, 80 million by 1940
+* Militarism = key feature of industrialization
+    * Wars w/ China in 1894/95
+    * Korea = protectorate of Japan
+    * Defeated Russia
+    * Geopolitical/military force
+* State generating revenues, managing economy, taxes
+* Imposition of national land tax → hits subsistence land farmers
+    * Farmers faced w/ tremendous financial problem
+    * Farmers have relatively large landholdings (due to inheritance
+        distributions)
+        * Particle/divisible inheritance → drove people out
+        * Oldest son receives all of land (primogeniture)
+        * Pull factors into city
+        * Dispossession of land
+* Gov't policy = driving force
+    * Immigration initially forbidden
+    * Gov't saw need for remittances → changed policy
+    * Permitted recruitment of labor from U.S. and others (Hawaii)
+    * Policy oriented towards sojourning, deliberate focus on establishing
+        settlement communities oversea → serve as base for chain migration,
+        means for learning about/bring back tech/knowledge to Japan, generating
+        remittances
+        * Driven around gaining access to tech, maintaining pride/prestige/honor
+            on world stage, rising nationalism
+* Series of waves of immigration from different countries (China, Japan,
+    Philippines, Punjab)
+    * Come in w/ lower wage rate than previous group
+* 1884: Right after Chinese Exclusion Act
+    * Japanese gov't screen people sent, send women, etc.
+        * Saw problems w/ Chinese immigration
+            * Development of bachelor society seen in negative light
+        * Women as projection of national character, greater stability, family
+            formation, reproduction of settler communities
+* Pull factors: need for cheap wage labor in agriculture
+    * Chinese discriminated against → opportunities
+* Migration to U.S. starts w/ migration to Hawaii
+    * Working in sugar → move to CA
+    * Primary destination = LA (development of oil/gas industries)
+    * 2nd city = Seattle, then Vancouver/British Columbia, Bay Area
+
+## Demography
+* Experience managing small farms, technological experience of Japanese
+    agriculture
+    * Came w/ great deal of experience
+    * Entrepreneurial ambitions, skills/tech. knowledge to realize them
+    * Sense of identity as Japanese, strong sense of ethnic pride
+        * Chinese identity forged in U.S. (previously more clan-centered)
+* Women almost as much schooling as men
+* 1905: 7% of Jap. pop. in U.S. = women
+* Largest age cohort = 45-65 (1920)
+    * Came at 1880, age 17/18
+* Women coming 10-15 yrs. younger
+* First men, then women, fewer women
+* 1870: Naturalization Act → Issei ineligible for citizenship
+
+## Issei Occupations/Niches
+* Fish canneries in Seattle
+* Later more farmers
+
+## Federal
+* Almost immediately vilified \& seen as threat by whites
+* 1906: Asiatic Exclusion League → SF school board, Asian children must be sent to sep.
+    oriental school
+    * Japanese gov't angry
+    * School board lets Jap. children continue attending white schools
+    * Gentleman's Agreement → Jap. no longer issue exit passports to men labors,
+        loopholes for family members, etc. (picturebrides)
+        * Men resident in U.S. able to bring family
+        * Explosion of picturebrides, via marriage brokers
+* Ladies' Agreement bans picturebrides
+
+## Japanese American Farm Acreage in CA
+* Jap. did well while they were here
+* A lot of success \& upward mobility → drove reactionary land laws (who has
+    access/exercise rights to land)
+* Initially passed in CA, spread to other states (never federal level)
+* 1913: California Alien Land Laws (can't lease land more than 3 years), but $\exists$ loopholes
+    * 1920 prohibited all leasing of land
+* Alien land laws created tenuous situation → loopholes allowed exploitation
+    * Agreements w/in Jap. American community, rotate lease holdings
+    * Own/lease land under names of American children
+    * Form land corporation w/ whites, owned $<$ 50\%
+    * Very successful, local authorities didn't enforce law
+    * Engaging in process of developing land
+
+## Early 20th Century Japanese American Agriculture: How did they do it?
+* Timing very important
+    * Period of innovations in agricultural tech. (groundwater pumping →
+        opening land)
+* Development of seeds, increase yields/productivity
+    * Grow strawberries in Monterey etc.
+* Focus on specialty crops → bring to markets, vertically integrated
+    production/distribution chain
+    * Seedlings/seeds from Japanese owned nurseries, growing crops on
+        leased/owned farms
+        * Sold back to Japanese markets
+* Access to middle class market with demand for crops
+* Labor intensive farming
+    * Niche production w/in enclaves
+        * Prospector capitalists developing resources
+        * Takaki → "Cultural/ethnic solidarity", credit pooling, exchange of
+            knowledge/tools, farmer's association, vertically integrated chain
+            * Family formation \& role of women key
+                * Short term need for work → leverage family/community
+                    (planting/harvesting time)
+                * Don't eat as much that year → can absorb
+
+## Jap. American \& Chinese American experiences
+* Divide/control labor market
+    * Capital segmenting labor force, pit against one another in terms of
+        ethnic identities
+* Chinese come at time where opportunities not available for small scale
+    entrepreneurship
+    * Opportunities didn't open up until CA agriculture took off
+* Nature of community resources, support of Jap. gov't
+* Financial resources/family formation
