@@ -191,7 +191,7 @@
 * 1868: 14th Amendment
     * Citizenship clause (all people born in US are citizens under birthright
         citizenship)
-        * Overturns 1857 Dred? Scott case
+        * Overturns 1857 Dred Scott case
         * Applies primarily to freed slaves
         * Doesn't apply to Native Americans until 1984
     * Due process clause (prohibit states/gov'ts from depriving persons of
